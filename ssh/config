@@ -1,4 +1,2 @@
 Host *
   ServerAliveInterval 60
-
-Include ~/.ssh/config.local
