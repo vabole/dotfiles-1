@@ -54,7 +54,3 @@ fi
 if [ -f /home/vabole/Downloads/google-cloud-sdk/completion.zsh.inc ]; then
   source '/home/vabole/Downloads/google-cloud-sdk/completion.zsh.inc'
 fi
-
-export PATH=$PATH:/home/vabole/bin
-
-source '/home/vabole/lib/azure-cli/az.completion'
